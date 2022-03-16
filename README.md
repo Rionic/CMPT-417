@@ -1,2 +1,2 @@
-# CMPT-417
-[Intelligent Systems] Individual &amp; Final Project from Fall 2021
+Individual Project - Multi-Agent Pathfinder  
+Final Project - Sudoku Solver with Several Inference Techniques
